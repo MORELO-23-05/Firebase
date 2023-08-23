@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "192268004204",
+    "project_id": "desarrollo-movil-nativo",
+    "storage_bucket": "desarrollo-movil-nativo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192268004204:android:03ad1719c59a6b9ecfa149",
+        "android_client_info": {
+          "package_name": "co.edu.sena.appMarioMorelo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192268004204-i1ec2b72np4lsv5n4birorjc54v1bmq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO3XIipd7tKen32_O3_7ovUcp1edgPrLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192268004204-i1ec2b72np4lsv5n4birorjc54v1bmq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
