@@ -13,7 +13,7 @@ import androidx.compose.ui.tooling.preview.Preview
 import com.example.app2687340mariomorelo.ui.theme.App2687340MarioMoreloTheme
 
 class MainActivity : ComponentActivity() {
-    override fun onCreate(savedInstanceState: Bundle?) {
+    override fun onCreate(savedInstanceState: Bundle?)   {
         super.onCreate(savedInstanceState)
         setContent {
             App2687340MarioMoreloTheme {
